@@ -13,6 +13,7 @@ This is MOCK sample data provided for hackathon prototyping only — NOT officia
     "dosage_form": "tablet",
     "product_image_url": "https://example.com/images/panadol_extra.jpg"
   },
+  
   {
     "nafdac_reg_no": "NAFDAC/07/22/0024",
     "product_name": "AmoxiCure 500",
@@ -25,6 +26,7 @@ This is MOCK sample data provided for hackathon prototyping only — NOT officia
     "dosage_form": "capsule",
     "product_image_url": "https://example.com/images/amoxicure500.jpg"
   },
+  
   {
     "nafdac_reg_no": "NAFDAC/11/23/0102",
     "product_name": "MalariClear",
@@ -49,6 +51,7 @@ This is MOCK sample data provided for hackathon prototyping only — NOT officia
     "dosage_form": "syrup",
     "product_image_url": "https://example.com/images/gastrorelief.jpg"
   },
+  
   {
     "nafdac_reg_no": "NAFDAC/08/22/0099",
     "product_name": "ZincoPlus Oral",
@@ -61,6 +64,7 @@ This is MOCK sample data provided for hackathon prototyping only — NOT officia
     "dosage_form": "tablet",
     "product_image_url": "https://example.com/images/zincoplus.jpg"
   },
+  
   {
     "nafdac_reg_no": "NAFDAC/02/24/0144",
     "product_name": "OralRehydrate ORS",
@@ -73,6 +77,7 @@ This is MOCK sample data provided for hackathon prototyping only — NOT officia
     "dosage_form": "powder",
     "product_image_url": "https://example.com/images/ors.jpg"
   },
+  
   {
     "nafdac_reg_no": "NAFDAC/06/21/0333",
     "product_name": "Ciprofast 500",
@@ -85,6 +90,7 @@ This is MOCK sample data provided for hackathon prototyping only — NOT officia
     "dosage_form": "tablet",
     "product_image_url": "https://example.com/images/ciprofast.jpg"
   },
+  
   {
     "nafdac_reg_no": "NAFDAC/12/23/0077",
     "product_name": "MamaCare Tablets",
@@ -97,6 +103,7 @@ This is MOCK sample data provided for hackathon prototyping only — NOT officia
     "dosage_form": "tablet",
     "product_image_url": "https://example.com/images/mamacare.jpg"
   },
+  
   {
     "nafdac_reg_no": "NAFDAC/10/22/0220",
     "product_name": "AzithroKids",
@@ -109,6 +116,7 @@ This is MOCK sample data provided for hackathon prototyping only — NOT officia
     "dosage_form": "suspension",
     "product_image_url": "https://example.com/images/azithrokids.jpg"
   },
+  
   {
     "nafdac_reg_no": "NAFDAC/05/23/0044",
     "product_name": "SafePain Ibuprofen",
@@ -121,6 +129,7 @@ This is MOCK sample data provided for hackathon prototyping only — NOT officia
     "dosage_form": "tablet",
     "product_image_url": "https://example.com/images/safepain.jpg"
   },
+  
   {
     "nafdac_reg_no": "NAFDAC/09/21/0188",
     "product_name": "MetroClear",
@@ -133,6 +142,7 @@ This is MOCK sample data provided for hackathon prototyping only — NOT officia
     "dosage_form": "suspension",
     "product_image_url": "https://example.com/images/metroclear.jpg"
   },
+  
   {
     "nafdac_reg_no": "NAFDAC/01/24/0029",
     "product_name": "VitaBoost Syrup",
@@ -145,6 +155,7 @@ This is MOCK sample data provided for hackathon prototyping only — NOT officia
     "dosage_form": "syrup",
     "product_image_url": "https://example.com/images/vitaboost.jpg"
   },
+  
   {
     "nafdac_reg_no": "NAFDAC/03/22/0400",
     "product_name": "AntiFever Paracold",
@@ -157,6 +168,7 @@ This is MOCK sample data provided for hackathon prototyping only — NOT officia
     "dosage_form": "tablet",
     "product_image_url": "https://example.com/images/paracold.jpg"
   },
+  
   {
     "nafdac_reg_no": "NAFDAC/07/20/0166",
     "product_name": "InsuQuick",
@@ -169,6 +181,7 @@ This is MOCK sample data provided for hackathon prototyping only — NOT officia
     "dosage_form": "injection",
     "product_image_url": "https://example.com/images/insuquick.jpg"
   },
+  
   {
     "nafdac_reg_no": "NAFDAC/11/24/0011",
     "product_name": "OrthoHeal Gel",
@@ -181,6 +194,7 @@ This is MOCK sample data provided for hackathon prototyping only — NOT officia
     "dosage_form": "gel",
     "product_image_url": "https://example.com/images/orthoheal.jpg"
   },
+  
   {
     "nafdac_reg_no": "NAFDAC/06/23/0133",
     "product_name": "AllerFree",
@@ -193,6 +207,7 @@ This is MOCK sample data provided for hackathon prototyping only — NOT officia
     "dosage_form": "tablet",
     "product_image_url": "https://example.com/images/allerfree.jpg"
   },
+  
   {
     "nafdac_reg_no": "NAFDAC/08/22/0310",
     "product_name": "EyeClear Drops",
@@ -205,6 +220,7 @@ This is MOCK sample data provided for hackathon prototyping only — NOT officia
     "dosage_form": "eye drops",
     "product_image_url": "https://example.com/images/eyeclear.jpg"
   },
+  
   {
     "nafdac_reg_no": "NAFDAC/10/23/0555",
     "product_name": "HerbaCough Syrup",
